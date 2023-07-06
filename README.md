@@ -1,2 +1,1 @@
-# Add a PUT route for updating quotes in the data
-# Add a DELETE route for deleting quotes from the data array.
+### small Express.js web API to store and serve different quotes about computers, coding, and technology.
